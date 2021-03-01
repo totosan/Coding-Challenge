@@ -1,0 +1,5 @@
+azure-ai-textanalytics
+Flask
+Flask-Cors
+waitress
+requests

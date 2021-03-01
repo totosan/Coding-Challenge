@@ -1,0 +1,20 @@
+.Comments {
+  text-align: left;
+  width: 30vw;
+}
+
+.Comments input {
+  width: 17vw;
+}
+
+.Comments button {
+  margin-right: 10px;
+  background-color: #2a0fc4; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
