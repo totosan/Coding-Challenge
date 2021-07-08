@@ -5,7 +5,7 @@ import sqlite3
 from azure.ai.textanalytics import TextAnalyticsClient
 from azure.core.credentials import AzureKeyCredential
 
-from flask import Flask, request, jsonify, render_template, redirect, url_for
+from flask import Flask, request, jsonify, render_template
 from flask_cors import CORS
 from waitress import serve
 from requests import get
